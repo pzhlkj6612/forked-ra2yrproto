@@ -2,16 +2,6 @@
 !.gitignore
 !/.github/**
 !/ra2yrproto/**
-!/ra2yrproto/**
-!/ra2yrproto/**
-!/ra2yrproto/**
-!/ra2yrproto/**
-!/ra2yrproto/**
-!/ra2yrproto/**
-!/ra2yrproto/**
-!/ra2yrproto/**
-!/ra2yrproto/**
-!/ra2yrproto/**
 !/build.sh
 !/LICENSE
 !/pyproject.toml
